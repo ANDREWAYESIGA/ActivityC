@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityC</string>
+    <string name="welcome_to_alc_4_0">welcome_to_alc_4_0</string>
+    <string name="myrofile">myrofile</string>
+    <string name="country_udanda">country_udanda</string>
+    <string name="track_android_development">track_android_development</string>
+    <string name="slack_username_andrew">SLACK USERNAME: ANDREW</string>
+    <string name="track_adroid_development">TRACK: ADROID DEVELOPMENT</string>
+    <string name="phonenumber_0753304226">PHoneNumber:0753304226</string>
+    <string name="country_uganda">COUNTRY:UGANDA</string>
+    <string name="email_andrewayesigamukama_gmail_com">EMAIL.andrewayesigamukama@gmail.com</string>
+    <string name="andrew_ayesigamukama">ANDREW-AYESIGAMUKAMA</string>
+</resources>

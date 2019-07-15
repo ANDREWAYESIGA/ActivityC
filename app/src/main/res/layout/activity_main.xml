@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="70dp"
+        android:text="welcome to alc 4.0"
+        android:layout_marginStart="30dp"
+        android:layout_marginBottom="20dp"
+        />
+
+
+    <Button
+        android:id="@+id/alc"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:text="About_alc"
+        android:onClick="Browser"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="60dp"
+        android:background="#FF9800"
+        />
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="60dp"
+        android:background="#FF9800"
+        android:onClick="myprofile"
+        android:text="@string/myrofile" />
+
+</LinearLayout>
